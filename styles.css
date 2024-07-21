@@ -1,0 +1,26 @@
+* {
+    text-align: center;
+    align-self: center;
+}
+
+.title {
+    font-family: "Monaco";
+    color: rgb(70, 60, 60);
+}
+
+.recipe-link {
+    font-size: 24px;
+    font-family: "Monaco"
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+ul,
+ol {
+    text-align: left;
+    display: table;
+    margin: 0 auto;
+}
